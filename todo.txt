@@ -1,2 +1,4 @@
 "Min att g�ra-lista" 
 "Hi Arti Im modifying your repository"
+"My tasks for today include the following: "
+"Finish GitHub labb 15-04-2020"
